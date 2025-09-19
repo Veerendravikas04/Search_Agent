@@ -80,7 +80,7 @@
     <h2>📂 Project Structure</h2>
     <pre>
 .
-├── app.py                # Main chatbot script
+├── main.py                # Main chatbot script
 ├── web_operations.py     # Google, Bing, Reddit fetch functions
 ├── prompts.py            # Prompt templates for analysis
 ├── .env                  # API keys
@@ -117,7 +117,7 @@ REDDIT_CLIENT_SECRET=your_reddit_client_secret
 
   <div class="section">
     <h2>▶️ Usage</h2>
-    <pre>python app.py</pre>
+    <pre>python main.py</pre>
     <p><b>Example:</b></p>
     <pre>
 Multi-Source Research Agent
